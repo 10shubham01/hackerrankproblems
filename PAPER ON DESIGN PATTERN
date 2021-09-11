@@ -2,7 +2,7 @@
 
 ### DESIGN PATTERN
 
->A general solution to common software design problems. Like a Blueprint or Tamplet that can be modify to solve a particular problem.
+A general solution to common software design problems. Like a Blueprint or Tamplet that can be modify to solve a particular problem.
 
 ### Categories
 
@@ -17,8 +17,8 @@
   
   
   
-> ## CREATIONAL
-> Patterns are mainly all about providing object creation mechanisms that promote flexibility and usability especially in sitution where need to create many diffrent types of many diffrent objects. 
+## CREATIONAL
+Patterns are mainly all about providing object creation mechanisms that promote flexibility and usability especially in sitution where need to create many diffrent types of many diffrent objects. 
 
 * #### FACTORY PATTERN 
 
@@ -148,8 +148,8 @@ console.log(processManager===processManager2)
 ---
 <br>
 
-> ## BEHAVIORAL 
->In software engineering, behavioral design patterns are design patterns that identify common communication patterns among objects. By doing so, these patterns increase flexibility in carrying out communication.
+## BEHAVIORAL 
+In software engineering, behavioral design patterns are design patterns that identify common communication patterns among objects. By doing so, these patterns increase flexibility in carrying out communication.
 
 * #### STRATEGY PATTERN
 The Strategy pattern is a behavioral design pattern that enables you to define a group (or family) of closely-related algorithms (known as strategies). The strategy pattern allows you to swap strategies in and out for each other as needed at runtime.
@@ -287,8 +287,9 @@ subject.fire()
 ---
 <br>
 
-> ## STRUCTURAL
-> Structural patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient. Allows objects with incompatible interfaces to collaborate.
+## STRUCTURAL
+
+Structural patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient. Allows objects with incompatible interfaces to collaborate.
 
 * #### PROXY PATTERN
 A proxy object is an object that acts as an interface (or placeholder) for something else. The proxy could be an interface to anything: an API, a network connection, a large object in memory, or some other resource that is expensive or impossible to duplicate.
@@ -366,4 +367,5 @@ console.log(proxy.getValue("Ethereum"))
 ---
 Reference links
 https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw
+
 https://github.com/pkellz
